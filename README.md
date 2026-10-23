@@ -41,6 +41,8 @@
 | :--- | :--- | :--- |
 | ⚡ **prompt-optimizer** | Herramienta CLI para optimizar y estructurar prompts con LLMs de forma rápida. | [Ver Repo](https://github.com/CarlLince/prompt-optimizer) |
 | 🎙️ **jarvis** | Asistente de voz interactivo directo para la terminal en entornos de desarrollo. | [Ver Repo](https://github.com/CarlLince/jarvis) |
+| 🎧 **[viernes-escucha](https://github.com/CarlLince/viernes-escucha)** | Proyecto interactivo / audio para la terminal. | `Kotlin` / `Python` |
+
 
 </div>
 
